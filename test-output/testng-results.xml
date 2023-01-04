@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-04T17:19:13 IST" name="Default suite" finished-at="2023-01-04T17:19:27 IST" duration-ms="13851">
+    <groups>
+    </groups>
+    <test started-at="2023-01-04T17:19:13 IST" name="Default test" finished-at="2023-01-04T17:19:27 IST" duration-ms="13851">
+      <class name="requestUsingFrameworkCoponents.GetProjectUsingBaseclass">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:requestUsingFrameworkCoponents.GetProjectUsingBaseclass@a530d0a]" started-at="2023-01-04T17:19:11 IST" name="bsConfig" finished-at="2023-01-04T17:19:13 IST" duration-ms="2517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method signature="getSingleProjectTest()[pri:0, instance:requestUsingFrameworkCoponents.GetProjectUsingBaseclass@a530d0a]" started-at="2023-01-04T17:19:13 IST" name="getSingleProjectTest" finished-at="2023-01-04T17:19:27 IST" duration-ms="13677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleProjectTest -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:requestUsingFrameworkCoponents.GetProjectUsingBaseclass@a530d0a]" started-at="2023-01-04T17:19:28 IST" name="asConfig" finished-at="2023-01-04T17:19:28 IST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- requestUsingFrameworkCoponents.GetProjectUsingBaseclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
